@@ -490,7 +490,8 @@ Github的Explore界面右上角有个Get email updates,获取邮件更新,根据
 ```txt
 第一步:创建笔记文件夹(md笔记的图片设置相对路径)
 第二步:将笔记放在这个文件夹(将笔记做好分类)
-第三步:上传笔记
+第三步:github创建新仓库
+第四步:上传笔记
 ```
 
 和上传代码一样步骤
@@ -501,3 +502,6 @@ Github的Explore界面右上角有个Get email updates,获取邮件更新,根据
 
 > git push -u origin master
 
+首次推送到空仓库需要加 -u,后面不需要了
+
+(图片不要在线浏览,看不到,想解决参考:https://blog.csdn.net/sunyctf/article/details/124112909,没试过)
