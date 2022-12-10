@@ -160,8 +160,6 @@ Ctrl+L快捷键,清屏
 
 
 
-
-
 # idea集成git
 
 **操作流程**
@@ -482,4 +480,24 @@ ctrl+k,调出暗藏的命令面板,进行各种查看操作
 ## 项目推送
 
 Github的Explore界面右上角有个Get email updates,获取邮件更新,根据喜好,定期推送自己感兴趣的优质项目
+
+
+
+# 上传md笔记(Typora)至github
+
+参考:https://blog.csdn.net/qq_39588003/article/details/115670602
+
+```txt
+第一步:创建笔记文件夹(md笔记的图片设置相对路径)
+第二步:将笔记放在这个文件夹(将笔记做好分类)
+第三步:上传笔记
+```
+
+和上传代码一样步骤
+
+> git add * : 将所有的文件添加到暂存区
+
+> git commit -m "提交信息" 
+
+> git push -u origin master
 
