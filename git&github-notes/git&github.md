@@ -506,10 +506,10 @@ Github的Explore界面右上角有个Get email updates,获取邮件更新,根据
 
 (图片不要在线浏览,看不到,想解决参考:https://blog.csdn.net/sunyctf/article/details/124112909,没试过)
 
-#补充内容
+# 补充内容
 
-##git的下载安装
+## git的下载安装
 
 
-##教程地址
+## 教程地址
 
