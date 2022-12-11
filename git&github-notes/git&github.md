@@ -3,6 +3,8 @@
 ## 基本操作
 
 首次安装需设置用户名和邮箱
+签名作用：
+每次提交到远程时区分不同操作者，在每次的提交信息中能看到。
 
 设置好的用户名和邮箱在``C:\Users\12262\.gitconfig``文件中可以查看(Windows家目录下)
 
@@ -509,6 +511,12 @@ Github的Explore界面右上角有个Get email updates,获取邮件更新,根据
 # 补充内容
 
 ## git的下载安装
+
+官网： https://git-scm.com/
+
+下载慢可使用淘宝镜像下载：https://npm.taobao.org/mirrors/git-for-windows/
+
+下载完之后安装，一键默认即可（傻瓜式安装）
 
 
 ## 教程地址
