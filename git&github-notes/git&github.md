@@ -324,9 +324,9 @@ settings --> Version Control --> github --> 点击+号添加账号
 
 生成口令:github --> settings --> Developer settings --> Personal access tokens --> Generate new token --> 起名字,所有权限勾选 --> Generate token --> 将生成的token复制保存(只显示一次,保存谨防丢失)
 
-> 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
+> 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
 
-
+90天期限的token
 
 ## 分享代码到github
 
