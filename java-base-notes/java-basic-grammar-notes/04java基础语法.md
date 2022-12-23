@@ -47,11 +47,17 @@ http://www.network-science.de/ascii/
 
 起名字时需要遵守规则和规范,见名知意原则
 
-命名规则:参考《阿里巴巴开发手册》
-
 命名规范:参考《代码整洁之道》
 
+命名规则:参考《阿里巴巴开发手册》
 
+https://github.com/alibaba/p3c
+
+idea插件安装:Alibaba Java Coding Guidelines
+
+IDEA工具（阿里巴巴）代码规范检查插件:
+
+https://blog.csdn.net/Monsterof/article/details/108239250
 
 分隔符:
 
@@ -244,9 +250,15 @@ boolean --> true,false
 
 null
 
+
+
 float和int都是4个字节,但是范围比long还大为什么?
 
 浮点数的精度问题
+
+
+
+long类型的值后面强制用大写L表示
 
 
 
@@ -267,6 +279,8 @@ float和int都是4个字节,但是范围比long还大为什么?
 
 
 # 类型转换
+
+狂神:类型转换题目:https://www.bilibili.com/video/BV12J41137hu?p=24
 
 基本规则:
 
