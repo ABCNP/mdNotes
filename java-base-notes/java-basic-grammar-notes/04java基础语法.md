@@ -1,5 +1,11 @@
 # 注释
 
+Java 注释
+
+http://t.csdn.cn/i9CvD
+
+## 注释类型
+
 单行
 
 多行注释:多数情况下使用多行注释
@@ -7,6 +13,43 @@
 文档注释:
 
 类的文档注释,类中成员的文档注释,类成员方法的文档注释
+
+## 注释标签
+
+Idea设置Java默认注释头文件
+
+https://blog.csdn.net/Dorian15/article/details/124986203
+
+Intellij IDEA -- Settings -- Editor -- File and Code Templates --> File Header
+
+```java
+/**
+ * @Version: v1.0
+ * @Author NingPeng
+ * @Email: ningpeng97@163.com
+ * @Date: ${DATE}
+ * @ClassName:${NAME}
+ * @Description: $Description
+ */
+```
+
+
+
+## 不同位置的注释
+
+类和接口上
+
+构造器上
+
+方法上
+
+属性上
+
+方法内
+
+
+
+## 有趣的注释
 
 有趣的注释:
 
@@ -38,6 +81,14 @@ http://www.network-science.de/ascii/
       ####        #  # # #    ### 
         #         # # # #      #  
 ```
+
+
+
+## 文档注释详解
+
+Java文档注释详解 :https://www.cnblogs.com/lukelook/p/12800812.html
+
+Java文档注释（拓展):https://www.cnblogs.com/xiaozhao01/p/15916043.html
 
 
 
