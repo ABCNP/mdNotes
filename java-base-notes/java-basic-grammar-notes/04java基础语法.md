@@ -24,12 +24,13 @@ Intellij IDEA -- Settings -- Editor -- File and Code Templates --> File Header
 
 ```java
 /**
- * @Version: v1.0
+ * @Description: $Description
+ * 
  * @Author NingPeng
  * @Email: ningpeng97@163.com
  * @Date: ${DATE}
  * @ClassName:${NAME}
- * @Description: $Description
+ * @Version: v1.0
  */
 ```
 
@@ -90,6 +91,16 @@ Java文档注释详解 :https://www.cnblogs.com/lukelook/p/12800812.html
 
 Java文档注释（拓展):https://www.cnblogs.com/xiaozhao01/p/15916043.html
 
+文档注释只负责描述类(class)、接口(interface)、方法(method)、构造器(constructor)、成员字段(field)
+
+
+
+代码与文档不分离,用javadoc可生成文档
+
+描述性注释写在最上方
+
+注释格式可参考jdk源码注释
+
 
 
 # 标识符与分隔符
@@ -126,9 +137,29 @@ https://blog.csdn.net/Monsterof/article/details/108239250
 
 
 
+命名规则(要求):
+
+Java标识符
+
+http://t.csdn.cn/QEwe8
+
+
+
+命名规范:
+
+大驼峰
+
+小驼峰
+
+
+
+
+
+
+
 # 关键字和保留字
 
-被计算机语言定义好的字符序列,有特殊含义,不能挪作他用,java有50个关键字
+被计算机语言定义好的字符序列,有特殊含义,不能挪作他用,java有50个左右关键字
 
 关键字含义
 
@@ -141,6 +172,18 @@ goto和const作为保留字存在,目前并不使用
 goto,在C中是无限跳转,java是有限跳转
 
 const在C中是生命常量的关键字,java声明常量使用 public static final
+
+
+
+[【java基础】java关键字总结及详解](http://t.csdn.cn/pnnum)
+
+
+
+java中50个关键字以及各自用法大全
+
+http://t.csdn.cn/GWoIQ
+
+
 
 
 
@@ -204,6 +247,8 @@ const在C中是生命常量的关键字,java声明常量使用 public static fin
 　　d) 日期的表示
 
 ② \ backslash, 反斜线， 主要用于电脑中， 也正是对普通/斜线的借鉴。 操作系统（xNix）， 电脑语言（C/C++, Perl），编码（部分Unicode）等都使用它。
+
+
 
 
 
