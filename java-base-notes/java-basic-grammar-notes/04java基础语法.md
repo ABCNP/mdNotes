@@ -175,9 +175,9 @@ const在C中是生命常量的关键字,java声明常量使用 public static fin
 
 
 
-[【java基础】java关键字总结及详解](http://t.csdn.cn/pnnum)
+【java基础】java关键字总结及详解
 
-
+http://t.csdn.cn/pnnum)
 
 java中50个关键字以及各自用法大全
 
@@ -254,6 +254,12 @@ http://t.csdn.cn/GWoIQ
 
 # 变量和常量
 
+Java 变量和常量
+
+https://www.cnblogs.com/langtianya/p/3868135.html
+
+
+
 ## 常量
 
 常量就是内容不能被修改的变量,常量也需要初始化,一旦初始化完成就不可被修改
@@ -262,9 +268,27 @@ public static final 数据类型 变量名 = 初始值;
 
 当一个变量被final修饰的时候，该变量**只有一次赋值的机会**
 
+
+
+
+
 ## 变量
 
 用来命名一个数据的标识符
+
+
+
+Java变量 
+
+https://www.cnblogs.com/superjishere/p/11776207.html
+
+Java变量详细教程
+
+http://t.csdn.cn/EppIv
+
+
+
+
 
 ### 变量的分类
 
@@ -290,6 +314,10 @@ public static final 数据类型 变量名 = 初始值;
 
 
 ### 变量的赋值
+
+定义时赋值
+
+或先声明再赋值
 
 
 
@@ -381,6 +409,8 @@ long类型的值后面强制用大写L表示
 基本规则:
 
 小范围(低精度) --> 大范围(高精度)
+
+
 
 ## 自动类型提升
 
