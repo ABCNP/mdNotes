@@ -204,6 +204,16 @@ http://t.csdn.cn/GWoIQ
 
 # 转义字符
 
+JAVA转义字符详解
+
+http://t.csdn.cn/W81u2
+
+JAVA的转义字符
+
+https://www.cnblogs.com/xuwc/p/13308822.html
+
+
+
 转移字符对应的英文是escape character  , 转义字符串（Escape Sequence）
 
 字母前面加上捺斜线"\"来表示常见的那些不能显示的ASCII字符.称为转义字符.如\0,\t,\n等，就称为转义字符，因为后面的字符，都不是它本来的ASCII字符意思了。
@@ -311,6 +321,10 @@ http://t.csdn.cn/EppIv
 数据类型 变量名 = 变量值;
 ```
 
+多种定义格式
+
+
+
 
 
 ### 变量的赋值
@@ -358,6 +372,18 @@ java是强类型语言
 
 
 
+Java数据类型
+
+http://t.csdn.cn/NYG2J
+
+java数据类型(最强详解)
+
+http://t.csdn.cn/YV3nZ
+
+java数据类型
+
+https://www.cnblogs.com/liangxiaofeng/p/5721506.html
+
 ## 基本数据类型
 
 Java中有八种基本类型，都是Java语言预先定义好的，并且是关键字
@@ -373,6 +399,10 @@ char  --> 2
 boolean --> true,false
 
 null
+
+
+
+char本质上是一种特殊的int
 
 
 
@@ -412,6 +442,20 @@ long类型的值后面强制用大写L表示
 
 
 
+JAVA数据类型转换大全
+
+http://t.csdn.cn/d4XZ9
+
+java 数据类型转换
+
+http://t.csdn.cn/u4VTU
+
+Java中数据类型转换大全
+
+https://www.cnblogs.com/javahr/p/8320566.html
+
+
+
 ## 自动类型提升
 
 byte、short、char --> int --> long --> float --> double
@@ -426,6 +470,8 @@ byte和short不能自动转为char,但是char能自动转为byte或short
 
 虽然short和char都是16位的，长度是一样的,但是彼此之间，依然需要进行强制转换
 
+
+
 ## 强制类型转换
 
 (目标类型)变量或常量
@@ -435,6 +481,16 @@ byte和short不能自动转为char,但是char能自动转为byte或short
 
 
 # 运算符
+
+【Java基础教程】Java运算符
+
+http://t.csdn.cn/bxzUr
+
+Java运算符（超详细！）
+
+http://t.csdn.cn/Q2Vaj
+
+
 
 ## 算术运算符
 
@@ -783,6 +839,10 @@ ASCII编码表：就是存储字符和数字对应关系的一张表格。（相
 
 
 # 流程控制
+
+Java入门篇（三）——Java流程控制 
+
+https://www.cnblogs.com/adamjwh/p/8329496.html
 
 
 
