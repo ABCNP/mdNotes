@@ -34,6 +34,16 @@ https://github.com/PKUFlyingPig/cs-self-learning
 
 
 
+# 书籍
+
+最全计算机电子书籍
+
+https://github.com/justjavac/free-programming-books-zh_CN
+
+
+
+
+
 # java
 
 java编程思想github
